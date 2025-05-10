@@ -1,10 +1,3 @@
-**Important Note:**  
-The files submitted in the previous version were incorrect. After reviewing the project, the correct files have been uploaded. This version (1.1) includes all the necessary updates and fixes.
-
-### Changes Made:
-- Replaced old files (only contained the frontend part) with the correct versions.
-- Fixed: reuploaded the correct files
-
 # Server Monitoring Dashboard
 A web-based dashboard for monitoring server metrics including CPU, RAM, disk usage, and network traffic.
 ![image](https://github.com/user-attachments/assets/8bce773c-0023-4141-b783-b185f3bafb73)
