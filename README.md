@@ -1,7 +1,7 @@
 # Server Monitoring Dashboard
 A web-based dashboard for monitoring server metrics including CPU, RAM, disk usage, and network traffic.
 ![image](assets/Dashboard1.jpeg)
-![image](https://github.com/user-attachments/assets/c8d0386d-f972-4e47-8e8a-1f637e2b28bb)
+![image](assets/Dashboard2.jpeg)
 ![image](https://github.com/user-attachments/assets/1245a731-39aa-453f-b0fe-100d1b646519)
 
 ## Features
