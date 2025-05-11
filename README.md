@@ -2,7 +2,7 @@
 A web-based dashboard for monitoring server metrics including CPU, RAM, disk usage, and network traffic.
 ![image](assets/Dashboard1.jpeg)
 ![image](assets/Dashboard2.jpeg)
-![image](https://github.com/user-attachments/assets/1245a731-39aa-453f-b0fe-100d1b646519)
+![image](assets/Dashboard3.jpeg)
 
 ## Features
 
